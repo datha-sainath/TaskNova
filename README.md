@@ -1,6 +1,6 @@
-# TaskManager Project
+# TaskNova Project
 
-TaskManager is a simple web application built with the MERN stack (MongoDB, Express, React, Node.js) and styled with TailwindCSS. This app allows users to manage tasks by adding, deleting, updating, and viewing them. The project also includes user authentication features with login and signup functionalities.
+Taskanova is a simple web application built with the MERN stack (MongoDB, Express, React, Node.js) and styled with TailwindCSS. This app allows users to manage tasks by adding, deleting, updating, and viewing them. The project also includes user authentication features with login and signup functionalities.
 
 **Live Link**: https://task-manager-frontend-mediconnects-projects.vercel.app/login
 ## Features
@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/KarthikBandi75/TaskManager.git
+   git clone [https://github.com/datha-sainath/TaskNova.git]
 
 2. **Deploy Link**:
   https://task-manager-frontend-mediconnects-projects.vercel.app/login
